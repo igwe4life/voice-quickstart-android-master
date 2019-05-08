@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "180946805197",
+    "firebase_url": "https://twilio-calling-30a61.firebaseio.com",
+    "project_id": "twilio-calling-30a61",
+    "storage_bucket": "twilio-calling-30a61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180946805197:android:8fe5528108fa08f4",
+        "android_client_info": {
+          "package_name": "com.twilio.voice.quickstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180946805197-jkpgg1ca40o80iou1nsabp92il5guteb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twilio.voice.quickstart",
+            "certificate_hash": "b92c081c7d2c19d264df66f6a89689ef45e8056f"
+          }
+        },
+        {
+          "client_id": "180946805197-1e2lh3d7dpom3r234eevmqbnr7brgas6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD94VnKzbB8VD6tEbWuda5nUFEgBdgwY2Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180946805197-1e2lh3d7dpom3r234eevmqbnr7brgas6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
